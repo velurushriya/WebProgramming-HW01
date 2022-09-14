@@ -1,0 +1,120 @@
+body{
+     font-family: Cambria;
+     background-image: url("images/cb.jpg");
+}
+ #t-1{
+     border-radius: 20px;
+     background-position: left top;
+     background-repeat: repeat;
+     padding: 0px;
+     width:100px;
+     height: 200px;
+     border:0px;
+     width:80%;
+     margin-left:auto;
+     margin-right:auto;
+     border-spacing:10px;
+}
+ td{
+     padding: 5px;
+}
+ table#tab1{
+     border:0px;
+}
+ table#t{
+     height:100px;
+     text-align : left;
+}
+ table#t,th{
+     text-align : center;
+}
+ .frow{
+     background-color:##FFFFFF ;
+     color: cadetblue;
+}
+ .srow{
+     background-color:#B4B4B2 
+}
+ #theader{
+     background-color:#12EAA4;
+     color:#A52A2A;
+}
+ .current{
+     font-weight:bold;
+     color : #EA4717;
+     font-size :18px;
+}
+ #name{
+     font-size:50px;
+     text-align:center;
+     color: #A517EA;
+}
+ .row-3{
+     text-align:center;
+}
+ #t {
+    width:85%;
+     margin-left:auto;
+     margin-right:auto;
+     border-spacing:0px;
+}
+ img.propic {
+     height:240px;
+     width:240px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 50%;
+}
+ a:hover{
+     background-color:red;
+     opacity: 0.9;
+}
+ .dept{
+     color:#300F96;
+}
+ .SubName{
+     color: firebrick;
+     font-size: 30px;
+}
+ .list {
+     font-size : 30px 
+}
+ ul{
+     color: darkgreen;
+}
+ .red01{
+     color: blue;
+}
+ .job{
+     font-size: 30px;
+}
+ .quote{
+     color:crimson;
+     font-size: 30px;
+}
+ .quoteword{
+     font-style: italic;
+     color:blueviolet;
+     font-size: 25px;
+     margin-left: 15px;
+}
+ .sites{
+     font-size: 30px;
+     color: coral;
+}
+ .listtype{
+     list-style-type:disc;
+}
+ .icon {
+     margin-left:2%;
+     float:left;
+     height:30px;
+     width:30px;
+}
+ .container {
+     width:100%;
+     height:auto;
+     padding:0%;
+}
+ 
